@@ -1,4 +1,9 @@
 def dnaComplement(DNA_seq):
+    '''
+    To complement the DNA sequence taken
+    INPUT:  "ATGCCCGTAATCTGGGA"
+    OUTPUT: "TACGGGCATTAGACCCT"
+    '''
     complement=[]
     complement[:0]=DNA_seq
     for i in range(len(complement)):
