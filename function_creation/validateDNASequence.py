@@ -12,6 +12,3 @@ def validateDNASequence(DNASequence):
             if nuc not in typesOfNucleotides:
                   return False
       return DNASequence
-
-
-print(validateDNASequence("AttCgggGt"))
