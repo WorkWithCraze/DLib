@@ -1,0 +1,30 @@
+[
+  {
+    "name": "good first issue",
+    "color": "a9e3ff"
+  },
+  {
+    "name": "🆘 help wanted",
+    "color": "ff00ff"
+  },
+  {
+    "name": "🟥 Level : 4 ",
+    "color": "b60205"
+  },
+  {
+    "name": "🟧 Level : 3 ",
+    "color": "ff9f1c"
+  },
+  {
+    "name": "🟨 Level : 2 ",
+    "color": "ffcc00"
+  },
+  {
+    "name": "🟩 Level : 1 ",
+    "color": "cfda2c"
+  },
+  {
+    "name": " LGM-SOC 21 ",
+    "color": "d93f0b"
+  }
+]
