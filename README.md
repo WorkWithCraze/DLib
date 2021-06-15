@@ -75,7 +75,7 @@ git push -u origin <your_branch_name>
 **15.** Hurray :exclamation: You have created a PR to the DLib :boom: . Sit back patiently and relax till then the project maintainers will review your PR. Please understand,  there will be some time taken to review a PR and can vary from a few hours to a few days too so be Patient and keep contributing.
 
 
-<br>
+
 <h2 > ⭐Our Contributors : </h2>
   <table>
   <tr>
