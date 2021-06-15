@@ -8,7 +8,7 @@
 - Could also be used for research purpose
 - Could also be used for Medical purpose
 
-## 📜 Instructions to follow while contributing to Musicophilia
+## 📜 Instructions to follow while contributing to DLib
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -27,7 +27,7 @@ where `your_user_name` is your GitHub username. Here you're copying the contents
 
 **3.** Navigate to the project directory :file_folder: .
 ```
-cd VCallZer
+cd DLib
 ```
 **4.** Add a reference(remote) to the original repository.
 ```
