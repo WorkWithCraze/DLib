@@ -8,7 +8,7 @@
 - Could also be used for research purpose
 - Could also be used for Medical purpose
 
-## 📜 Instructions to follow while contributing to DLib
+## 📜 Instructions to follow while contributing to DLIB
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -27,7 +27,7 @@ where `your_user_name` is your GitHub username. Here you're copying the contents
 
 **3.** Navigate to the project directory :file_folder: .
 ```
-cd DLib
+cd VCallZer
 ```
 **4.** Add a reference(remote) to the original repository.
 ```
@@ -74,4 +74,20 @@ git push -u origin <your_branch_name>
 
 **15.** Hurray :exclamation: You have created a PR to the DLib :boom: . Sit back patiently and relax till then the project maintainers will review your PR. Please understand,  there will be some time taken to review a PR and can vary from a few hours to a few days too so be Patient and keep contributing.
 
+## 📌 Opensource Programs
+
+### This project is a part of following Open Source Program
+<br>
+
+<table style="width:80%;background-color:white;border-radius:30px;">
+    <tr>
+  <td>
+<center>
+  <a href="https://letsgrowmore.in/projects/"><img src="https://letsgrowmore.in/wp-content/uploads/2021/05/cropped-growmore-removebg-preview.png"></img></a>
+  </center>
+  </td>
+  </tr>
+</table>
+    <hr>
+    
 ### Open for contributions .... 
