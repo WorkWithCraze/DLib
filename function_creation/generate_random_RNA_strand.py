@@ -10,11 +10,11 @@ import random
 # function to generate dna strands
 def generate_random_dna_strand(n):
     
-    # list l created and in that storea all the types of nucleotides present in DNA
+    # list l created and in that stored all the types of nucleotides present in DNA
     # 'A' -> Adenine
     # 'C' -> Cytosine
     # 'G' -> Guanine
-    # 'T' -> Thymine
+    # 'U' -> Uracil
     l = ['C', 'A', 'G', 'U']
     
     # string res created to store the random strand created
