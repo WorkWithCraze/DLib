@@ -1,6 +1,23 @@
 # DLib
-## A library to To explore DNA concepts in dept for both medical and Research purpose.
+<div align="center">
 
+<a href="https://github.com/CodeFlow201/DLib"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/CodeFlow201/DLib"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/CodeFlow201/DLib"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/CodeFlow201/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/CodeFlow201/DLib"><img src="https://img.shields.io/badge/PRs%3F-Welcomed-blue.svg?v=103"></a>
+
+<a href="https://github.com/CodeFlow201/DLib/graphs/contributors"><img src="https://img.shields.io/github/contributors/CodeFlow201/DLib?color=brightgreen"></a>
+<a href="https://github.com/CodeFlow201/DLib/stargazers"><img src="https://img.shields.io/github/stars/CodeFlow201/DLib?color=0059b3"></a>
+<a href="https://github.com/CodeFlow201/DLib/network/members"><img src="https://img.shields.io/github/forks/CodeFlow201/DLib?color=yellow"></a>
+<a href="https://github.com/CodeFlow201/DLib/issues"><img src="https://img.shields.io/github/issues/CodeFlow201/DLib?color=0059b3"></a>
+<a href="https://github.com/CodeFlow201/DLib/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/CodeFlow201/DLib?color=yellow"></a>
+<a href="https://github.com/CodeFlow201/DLib/pulls"><img src="https://img.shields.io/github/issues-pr/CodeFlow201/DLib?color=brightgreen"></a>
+<a href="https://github.com/CodeFlow201/DLib/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/CodeFlow201/DLib?color=0059b3"></a> 
+
+## A library to To explore DNA concepts in dept for both medical and Research purpose.
+</div>
+  
 ## Features And Aim
 - Vision to form library
 - Could visualize the DNA structure with few lines of code
